@@ -25,7 +25,10 @@ Integrating cloud and cross-platform technologies for end-to-end applications
 ⚡ Fun Tech Fact: I enjoy transforming complex AI/ML workflows into user-friendly web or mobile apps that solve real-world problems.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/musaraf05/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/musaraf05/) 
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Musaraf05) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:mohamedmusaraf8055@gmail.com) 
+[![Phone](https://img.shields.io/badge/Phone-8122798055-green?logo=phone&logoColor=white)](tel:+918122798055)
 
 
 # 💻 Tech Stack:
