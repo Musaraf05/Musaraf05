@@ -1,6 +1,30 @@
-# 💫 About Me:
- 🚀 I’m currently working on:<br>Enhancing my skills in Web development, data science and machine learning by developing innovative projects, image processing techniques to accurately extract text from images.<br><br>🤝 I’m looking to collaborate on:<br>Projects involving image processing, data science, natural language processing (NLP), and web development.<br><br>🛠️ I’m looking for help with:<br>Improving my knowledge in Web development  frameworks and optimizing machine learning models for better performance.<br>Optimizing OCR (Optical Character Recognition) for better accuracy in text extraction from various image formats.<br><br>🌱 I’m currently learning:<br>Advanced image processing algorithms.<br>Deep learning techniques for improving OCR accuracy.<br><br>💬 Ask me about:<br>Web development with Flask.<br>Text extraction and summarization techniques.<br>CGPA and GPA calculation methods.<br><br>⚡ Fun fact:<br>I developed a CGPA calculator web app that allows users to dynamically add and remove subjects and semesters to calculate their GPA and CGPA in real-time!<br>
+#💫 About Me
 
+Hi, I’m Mohamed Musaraf 👋, a Full-Stack Developer and AI & Data Science Enthusiast from Chennai. I recently completed my B.Tech in Artificial Intelligence and Data Science at SRM Valliammai Engineering College with a CGPA of 8.1/10.
+
+🔹 With strong technical skills in Python, Java, SQL, React.js, Node.js, Flask, MongoDB, and cloud fundamentals (Azure), I enjoy building scalable web and mobile applications as well as AI-powered solutions.
+
+💡 I’ve applied these skills in projects such as:
+
+ROSTA – Virtual Voice Assistant with Gesture Recognition: An AI-powered assistant using Python, OpenCV, and MediaPipe, enabling both voice and hand-gesture interactions.
+
+Study Companion: A Flask-based web app with OCR + NLP + TTS to extract, summarize, and read documents aloud, improving accessibility.
+
+CGPA Calculator: A dynamic React app that helps students calculate GPA/CGPA in real time with 100% accuracy.
+
+Face Emotion Detection: A CNN-based deep learning system that classifies human emotions with high accuracy.
+
+🔹 Industry Experience:
+
+At Aslaniya Tech (Software Developer Intern), I worked on React.js web apps, Flutter/React Native mobile apps, and explored Azure cloud integration.
+
+At Shiash Info Solutions (Data Science Intern), I focused on data cleaning, preprocessing, analysis, and ML pipeline building using Python.
+
+🌱 I am currently enhancing my skills in advanced image processing, deep learning, and full-stack development.
+
+🤝 I’m open to collaborating on projects in AI, data science, NLP, computer vision, and full-stack development.
+
+⚡ Fun Fact: I built a CGPA calculator web app that’s already used by 100+ students for real-time academic tracking!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/musaraf05/)
@@ -16,7 +40,6 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
 ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
