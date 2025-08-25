@@ -1,30 +1,42 @@
 ## 💫 About Me
 
-Hi, I’m Mohamed Musaraf 👋, a Full-Stack Developer and AI & Data Science Enthusiast from Chennai. I recently completed my B.Tech in Artificial Intelligence and Data Science at SRM Valliammai Engineering College with a CGPA of 8.1/10.
+🚀 Passionate Full-Stack Developer & AI/ML Enthusiast with expertise in building scalable web, mobile, and AI-powered applications.
 
-🔹 With strong technical skills in Python, Java, SQL, React.js, Node.js, Flask, MongoDB, and cloud fundamentals (Azure), I enjoy building scalable web and mobile applications as well as AI-powered solutions.
+🔹 Core Skills:
 
-💡 I’ve applied these skills in projects such as:
+Frontend: React.js, Flutter, React Native, Angular.js, HTML5, CSS3, JavaScript (ES6+)
 
-ROSTA – Virtual Voice Assistant with Gesture Recognition: An AI-powered assistant using Python, OpenCV, and MediaPipe, enabling both voice and hand-gesture interactions.
+Backend: Node.js, Express.js, Flask
 
-Study Companion: A Flask-based web app with OCR + NLP + TTS to extract, summarize, and read documents aloud, improving accessibility.
+Programming: Python, Java, R, SQL
 
-CGPA Calculator: A dynamic React app that helps students calculate GPA/CGPA in real time with 100% accuracy.
+Databases: MySQL, MongoDB
 
-Face Emotion Detection: A CNN-based deep learning system that classifies human emotions with high accuracy.
+Cloud: Microsoft Azure (deployment, scalability, security)
 
-🔹 Industry Experience:
+AI & Data Science: NumPy, Pandas, Matplotlib, SciPy, Scikit-learn, OpenCV, NLP, Deep Learning
 
-At Aslaniya Tech (Software Developer Intern), I worked on React.js web apps, Flutter/React Native mobile apps, and explored Azure cloud integration.
+🔹 What I Build:
 
-At Shiash Info Solutions (Data Science Intern), I focused on data cleaning, preprocessing, analysis, and ML pipeline building using Python.
+Web Applications: Scalable and responsive apps with React.js + Node.js + MongoDB
 
-🌱 I am currently enhancing my skills in advanced image processing, deep learning, and full-stack development.
+Mobile Applications: Cross-platform apps with Flutter & React Native
 
-🤝 I’m open to collaborating on projects in AI, data science, NLP, computer vision, and full-stack development.
+AI/ML Projects: OCR, NLP, Computer Vision, Emotion Detection, Predictive Modeling
 
-⚡ Fun Fact: I built a CGPA calculator web app that’s already used by 100+ students for real-time academic tracking!
+Cloud Solutions: Deploying and scaling apps with Microsoft Azure
+
+🔹 Focus Areas:
+
+Optimizing machine learning models for higher performance
+
+Developing efficient OCR pipelines with deep learning
+
+Creating dynamic full-stack solutions for real-world use cases
+
+Integrating cloud and cross-platform technologies for end-to-end applications
+
+⚡ Fun Tech Fact: I enjoy transforming complex AI/ML workflows into user-friendly web or mobile apps that solve real-world problems.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/musaraf05/)
