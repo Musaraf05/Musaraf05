@@ -1,4 +1,4 @@
-#💫 About Me
+## 💫 About Me
 
 Hi, I’m Mohamed Musaraf 👋, a Full-Stack Developer and AI & Data Science Enthusiast from Chennai. I recently completed my B.Tech in Artificial Intelligence and Data Science at SRM Valliammai Engineering College with a CGPA of 8.1/10.
 
@@ -55,6 +55,10 @@ At Shiash Info Solutions (Data Science Intern), I focused on data cleaning, prep
 ### 🗄️ Database
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### ☁️ Cloud  
+[![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
+
 
 ### 📊 Data Science & ML
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
