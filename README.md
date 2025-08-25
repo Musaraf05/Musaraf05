@@ -2,20 +2,6 @@
 
 🚀 Passionate Full-Stack Developer & AI/ML Enthusiast with expertise in building scalable web, mobile, and AI-powered applications.
 
-🔹 Core Skills:
-
-Frontend: React.js, Flutter, React Native, Angular.js, HTML5, CSS3, JavaScript (ES6+)
-
-Backend: Node.js, Express.js, Flask
-
-Programming: Python, Java, R, SQL
-
-Databases: MySQL, MongoDB
-
-Cloud: Microsoft Azure (deployment, scalability, security)
-
-AI & Data Science: NumPy, Pandas, Matplotlib, SciPy, Scikit-learn, OpenCV, NLP, Deep Learning
-
 🔹 What I Build:
 
 Web Applications: Scalable and responsive apps with React.js + Node.js + MongoDB
