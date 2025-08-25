@@ -32,8 +32,6 @@ Integrating cloud and cross-platform technologies for end-to-end applications
 
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedmusaraf8055@gmail.com)  
 
-[![Phone](https://img.shields.io/badge/-Phone-25D366?style=for-the-badge&logo=phone&logoColor=white)](tel:+918122798055)  
-
 
 # 💻 Tech Stack:
 
